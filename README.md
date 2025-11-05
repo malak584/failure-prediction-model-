@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🔧 Failure Prediction using CamemBERT + XGBoost
 
 This project predicts the type of equipment failure (**panne**) based on textual and structured maintenance data.  
