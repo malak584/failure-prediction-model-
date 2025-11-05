@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+xgboost
+sentence-transformers
+imblearn
+matplotlib
+unidecode
