@@ -6,3 +6,5 @@ sentence-transformers
 imblearn
 matplotlib
 unidecode
+streamlit
+sentencepiece
