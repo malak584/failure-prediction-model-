@@ -143,7 +143,7 @@ Model files (xgb_model.pkl, label_encoder.pkl, feature_columns.pkl) are generate
 👩‍💻 Author
 Malak Khalfallah
 
-🎓 Software Engineering Student
+🎓 Software Engineering Student 😁
 
 📧 khmalak152@gmail.com
 
